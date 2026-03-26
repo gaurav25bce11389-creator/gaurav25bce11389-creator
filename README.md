@@ -1,16 +1,32 @@
 ## Hi there 👋
+------------------------------------------------------------------------
+About Me
+------------------------------------------------------------------------
 
-<!--
-**gaurav25bce11389-creator/gaurav25bce11389-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Gaurav kumar
 
-Here are some ideas to get you started:
+Branch: Computer Science and Engineering (CSE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Year: First Year, B.Tech
+
+I hope to learn how to build a strong digital presence, communicate professionally online, and use modern platforms responsibly to grow academically and personally.
+
+-------------------------------------------------------------------
+Interests:-
+-------------------------------------------------------------------
+
+Competitive gaming and analyzing strategies for optimal performance
+
+Programming and Problem solving
+
+Artifical Intelligence
+
+Learning New Technologies
+
+-------------------------------------------------------------------
+Goals
+-------------------------------------------------------------------
+
+Improve my coding skills
+
+Work on real-world projects
